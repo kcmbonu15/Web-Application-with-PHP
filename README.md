@@ -1,2 +1,2 @@
 # Web-Application-with-PHP
-Coursera /Web-Application-with-Php
+Coursera /Web-Application-with-PHP
